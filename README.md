@@ -3,9 +3,9 @@
 Covers abstract data types and structures including dictionaries, balanced trees, hash tables, priority queues, and graphs; sorting; asymptotic analysis; fundamental graph algorithms including graph search, shortest path, and minimum spanning trees; multithreading and parallel algorithms; P and NP complexity classes.
 
 ## Projects
-[Project 1](https://github.com/DavisHYang/CSE332/blob/main/README.md#project-1)
-[Project 2](https://github.com/DavisHYang/CSE332/blob/main/README.md#project-2)
-[Project 3](https://github.com/DavisHYang/CSE332/blob/main/README.md#project-3)
+- [Project 1](https://github.com/DavisHYang/CSE332/blob/main/README.md#project-1)
+- [Project 2](https://github.com/DavisHYang/CSE332/blob/main/README.md#project-2)
+- [Project 3](https://github.com/DavisHYang/CSE332/blob/main/README.md#project-3)
 
 ## Project 1
 
