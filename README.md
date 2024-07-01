@@ -7,4 +7,4 @@ Covers abstract data types and structures including dictionaries, balanced trees
 - Project 2 - Implementing different types of Dictionaries and sorting algorithms.
 - Project 3 - Implementing sequential and parallel versions of the Bellman-Ford Algorithm
 
-*More information available in project READMEs
+*More info in project READMEs
